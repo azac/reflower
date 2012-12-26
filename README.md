@@ -1,4 +1,4 @@
-reflower
+reFlower
 ========
 
 OSX GUI for k2pdfopt

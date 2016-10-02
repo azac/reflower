@@ -12,4 +12,4 @@ Installation:
 
 Note:
 
-* You might need to install [ActiveTcl libraries](http://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.13.0/ActiveTcl8.5.13.0.296436-macosx10.5-i386-x86_64-threaded.dmg) first
+* You might need to install [ActiveTcl libraries](http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-macosx10.5-i386-x86_64-threaded.dmg) first
